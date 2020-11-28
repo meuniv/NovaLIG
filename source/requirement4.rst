@@ -18,7 +18,7 @@ B. Discuss with your counselor the food science involved at the place you visite
    * Whether food crops are cultivated mechanically with tractors, with horses, or by hand, another fun fact is there is over 1,600 varieties of bananas! There are hundreds of thousands of varieties of all different kinds of edible plants.
    * Fun facts about chickens? The average chicken lays an egg a day. There are more chickens than any other bird species in the world, with 25 billion chickens around the globe.
 
-   These fun facts about farming were ccopied from `agdaily.com <https://www.agdaily.com/lifestyle/farm-babe-impress-your-friends-with-off-beat-farm-trivia/>`_. Check out the website for more facts!
+   These fun facts about farming were copied from `agdaily.com <https://www.agdaily.com/lifestyle/farm-babe-impress-your-friends-with-off-beat-farm-trivia/>`_. Check out the website for more facts!
    
 .. figure:: https://robohub.org/wp-content/uploads/2017/08/EUFarm.jpg
    :width: 600px

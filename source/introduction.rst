@@ -25,7 +25,7 @@ Documenting your progress
 5. You can share your own copy of the worksheet with your counselor using the following procedure.
 	a) Click on the SHARE button on the top-right. 
 	b) Click on "get link".
-	c) Send the link to your advisor.
+	c) Send the link to your counselor.
 
 ..
    For your convenience, these instructions are also available as a short Youtube video below. 
@@ -35,7 +35,7 @@ Documenting your progress
 If you have any question
 ------------------------
 
-Contact your counselor or your scoutmaster! If you have questions about the program, contact Dr. Meunier  by `email <mailto:vinmeunier@gmail.com>`_.
+Contact your counselor or your scoutmaster! If you have questions about the program, contact Vincent Meunier  by `email <mailto:vinmeunier@gmail.com>`_ (always make sure to copy another adult on all your communications!).
 
 Other Nova modules in this series
 ---------------------------------

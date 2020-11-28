@@ -5,7 +5,7 @@ Welcome to *Let it grow*
 
 This module is designed to help you explore where your food comes from and how agriculture affects your life each day. Agriculture includes growing crops and raising animals to provide food and other products.
 
-.. warning:: When completing this Award both the youth and involved adult leaders must obey all rules of `Safe Scouting <https://www.scouting.org/health-and-safety/gss/>`_. This includes (1) Completing Cyber Chip prior to starting this activity and (2) **ALWAYS** involve at least 2 adults in all your communications with a leader, including online. If you send email to your counselor, always add the address of another adult leader or a parent/guardian. Never reply to a message sent by an adult leader unless another adult has been copied on the email. Report any issue to your parents/guardians!	
+.. warning:: When completing this Award both the youth and involved adult leaders must obey all rules of `Safe Scouting <https://www.scouting.org/health-and-safety/gss/>`_. This includes (1) Completing Cyber Chip training prior to starting this activity and (2) **ALWAYS** involve at least 2 adults in all your communications with a leader, including online. If you send email to your counselor, always add the address of another adult leader or a parent/guardian. Never reply to a message sent by an adult leader unless another adult has been copied on the email. Report any issue to your parents/guardians!	
 
 Instructions
 ------------

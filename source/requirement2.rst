@@ -6,16 +6,16 @@ After completion, discuss with your counselor how the merit badge you earned use
 
 
 * Animal Science
-* Fishing
-* Mammal Study
 * Cooking
-* Forestry
-* Nature
 * Farm Mechanics
-* Gardening
-* Plant Science
 * Fish and Wildlife Management
+* Fishing
+* Forestry
+* Gardening
 * Insect Study
+* Mammal Study
+* Nature
+* Plant Science
 * Soil and Water Conservation
 
 
